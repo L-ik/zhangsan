@@ -14,10 +14,6 @@ print("和"*10)
 print((4+8-3*2)/3)
 print(2>6)
 
-#变量
-#赋值
-name="妖姬"
-print(name)
 """
 # a = float(input("请输入："))
 # b = float(input("请输入："))
